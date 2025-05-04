@@ -1,2 +1,2 @@
-# aprendre_python
+# aprende_python
 Learn Python Basics
